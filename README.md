@@ -1,2 +1,2 @@
-# Django-practice-RestaurantShare
-Django_한그릇뚝딱_Chapter_3
+# RestaurantShare-with-Django
+Django_한그릇뚝딱_Chapter_3_practice
